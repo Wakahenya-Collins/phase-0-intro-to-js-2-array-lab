@@ -29,3 +29,4 @@
       function removeFirstCat(name) {
         return cats.slice(1);
       } 
+      
